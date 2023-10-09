@@ -19,11 +19,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![1440px](./screenshot/FrontEndMentor1.jpg.jpg)
+![ProjectScreenshot1440px](./screenshot/FrontEndMentor1.jpg)
 
 -1440px
 
-![375px](./screenshot/FrontEndMentor2.jpg.jpg)
+![ProjectScreenshot375px](./screenshot/FrontEndMentor2.jpg)
 
 -375px
 
