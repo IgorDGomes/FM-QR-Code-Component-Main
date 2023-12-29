@@ -19,13 +19,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+-> 1440px
+
 ![ProjectScreenshot1440px](./screenshot/FrontEndMentor1.jpg)
 
--1440px
+->  375px
 
 ![ProjectScreenshot375px](./screenshot/FrontEndMentor2.jpg)
 
--375px
 
 ### Links
 
